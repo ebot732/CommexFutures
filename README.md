@@ -2,7 +2,7 @@
 
 trading bot for exchange Commex
 
-Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-18).
+Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).
 
 Запуск бота на VPS с ubuntu
 
@@ -14,11 +14,11 @@ trading bot for exchange Commex
 4. Заходим в папку CommexFutures командой:
    cd CommexFutures
 5. Скачиваем бота в папку CommexFutures командой:
-   wget https://github.com/ebot732/CommexFutures/releases/download/CommexFutures-18/CommexFutures-18
+   wget https://github.com/ebot732/CommexFutures/releases/download/CommexFutures-19/CommexFutures-19
 6. Даём права на запуск бота командой:
-   chmod 755 CommexFutures-18
+   chmod 755 CommexFutures-19
 7. Запускаем бота командой:
-   ./CommexFutures-18
+   ./CommexFutures-19
     и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:
     ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
