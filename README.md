@@ -1,6 +1,6 @@
 # CommexFutures
 
-trading bot for exchange Commex
+Trading bot for Commex exchange.
 
 Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).
 
