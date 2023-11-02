@@ -14,11 +14,11 @@ Trading bot for Commex exchange.
 4. Заходим в папку CommexFutures командой:
    cd CommexFutures
 5. Скачиваем бота в папку CommexFutures командой:
-   wget https://github.com/ebot732/CommexFutures/releases/download/CommexFutures-19/CommexFutures-19
+   wget https://github.com/ebot732/CommexFutures/releases/download/CommexFutures-20/CommexFutures-20
 6. Даём права на запуск бота командой:
-   chmod 755 CommexFutures-19
+   chmod 755 CommexFutures-20
 7. Запускаем бота командой:
-   ./CommexFutures-19
+   ./CommexFutures-20
     и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:
     ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
