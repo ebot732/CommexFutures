@@ -2,7 +2,7 @@
 
 Trading bot for Commex exchange.
 
-Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).
+Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-20).
 
 Запуск бота на VPS с ubuntu
 
