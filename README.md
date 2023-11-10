@@ -3,6 +3,7 @@
 Trading bot for Commex exchange.
 
 Бот для торговли на криптобирже Commex фьючерсами USDT Perpetual (аналог BinFutures-20).
+( реф ссылка для регистрации: https://accounts.commex.com/en/register?ref=NUC4IQEU )
 
 Запуск бота на VPS с ubuntu
 
