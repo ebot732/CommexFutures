@@ -1,10 +1,10 @@
 # CommexFutures
 
-Trading bot for Commex exchange.
+Trading bot for Commex exchange.   
+Сайт ботов: https://ebot732.github.io/
 
 Бот для торговли на криптобирже Commex фьючерсами USDT Perpetual (аналог BinFutures-22).        
-( реф ссылка для регистрации: https://accounts.commex.com/en/register?ref=NUC4IQEU )
-
+Реф ссылка для регистрации: https://accounts.commex.com/en/register?ref=NUC4IQEU  
 
    Бот может работать в одном из 4-х режимов:
 1.  Режим стандартный- перебор пар для выбора подходящей по всем заданным условиям: 
